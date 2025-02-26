@@ -51,4 +51,4 @@ type 'exit' to end the chat
 
 ## E.g Chat Conversion
 
-!["chat with termit"][Assets/termit.gif]
+!["chat with termit"](Assets/termit.gif)
