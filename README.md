@@ -43,4 +43,4 @@ Before you start, ensure that you have the following prerequisites installed:
 
 ### **Exit**
 
-    type 'exit' to end the chat
+type 'exit' to end the chat
