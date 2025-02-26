@@ -39,9 +39,7 @@ Before you start, ensure that you have the following prerequisites installed:
 
 # **Run the Command**:
 
-    ```
     termit
-    ```
 
 # **Exit**
 
