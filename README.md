@@ -26,11 +26,15 @@ Before you start, ensure that you have the following prerequisites installed:
    ```
    cd Termit
    ```
-3. **Install Dependencies**:
+3. **Setup API key in .env file**:
+   ```python
+   APIKEY="your_api_key"
+   ```
+4. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
-4. **Build Command**:
+5. **Build Command**:
    ```
    pip install .
    ```
