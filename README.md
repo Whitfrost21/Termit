@@ -37,10 +37,10 @@ Before you start, ensure that you have the following prerequisites installed:
 
 ## Usage
 
-# **Run the Command**:
+### **Run the Command**:
 
     termit
 
-# **Exit**
+### **Exit**
 
--type 'exit' to end the chat
+    type 'exit' to end the chat
