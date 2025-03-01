@@ -14,37 +14,23 @@ Before you start, ensure that you have the following prerequisites installed:
 
 - Python 3.6 or higher
 - `pip` (Python package installer)
-- A valid Gemini API key
+- [Gemini API key](https://ai.google.dev/)
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Whitfrost21/Termit.git
-   ```
-2. **Navigate**:
-   ```
    cd Termit
-   ```
-3. **Setup API key in .env file**:
-   ```python
    APIKEY="your_api_key"
-   ```
-4. **Install Dependencies**:
-   ```bash
    pip install -r requirements.txt
-   ```
-5. **Build Command**:
-   ```
    pip install .
    ```
 
 ## Usage
 
 ### **Run the Command**:
-
+```bash
     termit
-
-### **Exit**
-
-type 'exit' to end the chat.
+    # type "exit" to end the chat
+```
