@@ -22,11 +22,13 @@ Before you start, ensure that you have the following prerequisites installed:
    ```bash
    git clone https://github.com/Whitfrost21/Termit.git
    cd Termit
-   APIKEY="your_api_key"
    pip install -r requirements.txt
    pip install .
    ```
-
+2. **Set up the API key**:
+   ```
+   APIKEY="your_api_key"
+   ```
 ## Usage
 
 ### **Run the Command**:
