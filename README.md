@@ -40,7 +40,8 @@ Before you start, ensure that you have the following prerequisites installed:
 
 ### **Exit**
 
-```exit
+```
+exit
 
  # type "exit" to end the chat
 ```
