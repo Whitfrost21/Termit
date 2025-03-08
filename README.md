@@ -36,6 +36,7 @@ Before you start, ensure that you have the following prerequisites installed:
 
 ```bash
     termit
+```
 
 ### **Exit**
 
@@ -46,4 +47,7 @@ type 'exit' to end the chat
 !["chat with termit"][Assets/termit.gif]
 
     # type "exit" to end the chat
+
+```
+
 ```
