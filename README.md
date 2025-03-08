@@ -29,12 +29,13 @@ Before you start, ensure that you have the following prerequisites installed:
    ```
    APIKEY="your_api_key"
    ```
+
 ## Usage
 
 ### **Run the Command**:
+
 ```bash
     termit
-<<<<<<< HEAD
 
 ### **Exit**
 
@@ -43,7 +44,6 @@ type 'exit' to end the chat
 ## E.g Chat Conversion
 
 !["chat with termit"][Assets/termit.gif]
-=======
+
     # type "exit" to end the chat
 ```
->>>>>>> 2e93069350e8e451558823e94be3bf9d8bb35022
