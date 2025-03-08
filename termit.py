@@ -13,6 +13,7 @@ import click
 load_dotenv()
 
 api_key=os.getenv("APIKEY")
+# print(api_key)
 
 def loader():
         dot_count = 0
