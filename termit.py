@@ -24,15 +24,6 @@ def loader():
             dot_count = (dot_count + 1) % len(dots)
             time.sleep(0.5)
 
-# def exitloader():
-#         dot_count = 0
-#         while not done:
-#             sys.stdout.write(f'\r{" "*20}')
-#             sys.stdout.write(f'\r Exiting 🙏 {dots[dot_count]}')
-#             sys.stdout.flush()
-#             dot_count = (dot_count + 1) % len(dots)
-#             time.sleep(0.5)
-
 done = False
 dots = ['.', '..', '...']
 color='cyan'
@@ -99,7 +90,6 @@ def start_chat():
             break
         except Exception as e:
             print("Exiting...")
-            # exiting.start()
             logging.info(f'Error : {e}')
 
 @click.command()
