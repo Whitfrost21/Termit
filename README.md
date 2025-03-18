@@ -46,6 +46,6 @@ exit
  # type "exit" to end the chat
 ```
 
-## E.g Chat Conversion
+## Termit in Action
 
 !["chat with termit"](Assets/termit.gif)
